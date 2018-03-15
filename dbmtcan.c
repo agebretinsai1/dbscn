@@ -143,4 +143,4 @@ void scann(FILE *fiptr, double *storage2, int epsmin, int sizes)
                 }
         }
 	fclose(fiptr); //closes write file
-	ey
+	yey
