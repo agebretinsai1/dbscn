@@ -142,4 +142,4 @@ void scann(FILE *fiptr, double *storage2, int epsmin, int sizes)
                         printf("x(%.02lf),y(%.02lf) -> x'(%.02lf),y'(%.02lf) = %.03lf\n",x,y,x2,y2,distance);
                 }
         }
-	fclose(fiptr); //closes write filei yyi;i:iffey
+	fclose(fiptr); //closes write filei yyi;ii:iffey
