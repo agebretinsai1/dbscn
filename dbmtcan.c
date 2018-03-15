@@ -127,7 +127,7 @@ void scann(FILE *fiptr, double *storage2, int epsmin, int sizes)
         for(i=2;i < sizes;i++)
         {
                 x2=storage2[i];
-                printf("%.02f\n",x2);
+                printf("%.02f\n",x2)
                 y2=storage2[i+1];
                 printf("%.02f\n",y2);
 
